@@ -11,7 +11,7 @@ I provide one simple guarantee:
 
 That means any progress made in these builds could become irrelevant by the next release.
 
-## What is Dungeon Dwellers
+## What is Dungeon Dwellers?
 Dungeon Dwellers is a small game that revolves around two keys places:
 
 1. The Dungeon
@@ -21,7 +21,7 @@ The Dungeon is exactly what it sounds like; A dungeon for you to roam around, lo
 The Hub is where you collect resources, create items, and gear up for the Dungeon.
 
 **THERE IS CURRENTLY NO TUTORIAL!!!**
-It's the next thing to be rebuilt, so it should be done soon, _hopefully_.
+It's the next thing to be rebuilt, so it should be done soon. _Hopefully_.
 
 ## How do I become a Beta Tester?
 Since this is an open beta, just download a release file and start playing.
@@ -38,5 +38,5 @@ I only ask if you do leave a suggestion, be nice about it. I've spent 2 years ma
 I hope to release this game on all mobile and PC platforms through official channels (App Store, Google Play, Steam, etc.), but
 I need this game to be better than it is.
 
-## A Small Note
-Beta Builds are
+
+
