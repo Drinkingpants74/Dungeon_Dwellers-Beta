@@ -61,7 +61,7 @@ When making a bug report or suggestion, please use the following template:
 
 * __TYPE:__ _Bug Report_ or _Suggestion_
 * __DEVICE TYPE:__ _Mobile_ or _Computer_
-* __DEVICE OS:__ _Android_, _MacOS_, _etc._
+* __DEVICE OS:__ _Android_, _Linux(Fedora)_, _etc._
 * __DESCRIPTION:__ _Please Don't Write Me an Essay_
 * __STEPS TO REPLICATE:__ _Only If Reporting A Bug_
 * Anything Else
@@ -82,8 +82,10 @@ was developed on a Macbook Air.
 Just comment on the original issue letting me know it's still a problem.
 
 ### I Have A Similar Suggestion To A Closed One:
-If this is the case, you can either comment on the original suggestion with your variation,
-or you can create a new issue.
+Depending on how similar they are you can do one of two things:
+* Near Identical Suggestion - Just Comment on the Closed Issue _(Don't worry, I'll see it)_
+* Somewhat Similar Suggestion - Create a new Issue
+
 
 ### When Is The Official Release?
 I have no idea, and I'm not even going to attempt a guess.
