@@ -7,6 +7,7 @@ Welcome to the Open Beta of my first ever game! Whether you're a returning teste
 * [What Is The Beta](https://github.com/Drinkingpants74/Dungeon_Dwellers-Beta/#what-is-the-beta)
 * [How Can You Help](https://github.com/Drinkingpants74/Dungeon_Dwellers-Beta/#how-can-you-help)
 * [Bug Reporting and Suggestions](https://github.com/Drinkingpants74/Dungeon_Dwellers-Beta/#bug-reporting-and-suggestions)
+* [Potentially Asked Question](https://github.com/Drinkingpants74/Dungeon_Dwellers-Beta/#potentially-asked-questions)
 
 ## What Is Dungeon Dwellers?
 
