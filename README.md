@@ -40,6 +40,12 @@ The Beta is the full game is it stands right now. Every feature, every bug, and 
 By downloading a build, you will have access to the full game, with all it's features. You can find a build for your device on the
 [releases page](https://github.com/Drinkingpants74/Dungeon_Dwellers-Beta/releases).
 
+The list below are things that I'm already working on. Some of these items just need to get some finishing touches, others need to be rebuilt.
+* Boss Dungeons - They exist, but only 5/6 are built, 4/6 Bosses are made, and only 2/6 Bosses have images and animations.
+* Woodcutting - This actually works just fine, I just want to change it to match
+* Music/SFX - I'm still working on adding more Music and SFX. Some scenes have Music and some actions have SFX, but not all.
+* Skill Guide - It's a whole mess and needs to be completely rebuilt.
+
 
 ## How Can You Help?
 
@@ -73,10 +79,17 @@ When making a bug report or suggestion, please use the following template:
 No. If you just want to play this game, that's completely acceptable.
 However, I would really appreciate any and all bug reports.
 
-### When Will Apple Devices Be Supported?
+### When Will _Insert Device_ Be Supported?
+The plan is to support every type of device eventually; Windows, MacOS, Linux, iOS, iPadOS, Android.
+
+Right now, I will only be building Windows and Linux builds.
+
 Currently, Apple Products aren't supported. This isn't because I don't like Apple, it's because I can't afford the $99 Developer Fee.
 Hopefully that will change one day, but for the now; Apple Devices Are Not Supported. Which I find weird considering the entire game
 was developed on a Macbook Air.
+
+Currently, Android is not supported. This will be coming much sooner than Apple support, but it's still a little ways off right now.
+As more builds have fewer problems, I'll start making Android builds.
 
 ### My Issue Was Closed, But The Bug Still Exists:
 Just comment on the original issue letting me know it's still a problem.
