@@ -78,20 +78,16 @@ When making a bug report or suggestion, please use the following template:
 No. If you just want to play this game, that's completely acceptable.
 However, I would really appreciate any and all bug reports.
 
-### When Will _Insert Device_ Be Supported?
-The plan is to support every type of device eventually; Windows, MacOS, Linux, iOS, iPadOS, Android.
+### When Will _<Insert Device/Arch/OS>_ Be Supported?
+I plan to support both 64-Bit and ARM devices running every major OS; Windows, MacOS, Linux, iOS, iPadOS, Android.
 
-Right now, I will only be building Windows and Linux builds.
+Currently, only 64-Bit Windows and Linux builds are available.
 
-Currently, Apple Products aren't supported. This isn't because I don't like Apple, it's because I can't afford the $99 Developer Fee.
-Hopefully that will change one day, but for the now; Apple Devices Are Not Supported. Which I find weird considering the entire game
-was developed on a Macbook Air.
+Apple Products aren't currently supported. This is simply because I can't afford the $99 Developer Fee.
+Eventually that will change, but for now; Apple Devices are Not Supported. Which I find odd since I built
+the entire game on a MacBook Air.
 
-Currently, Android is not supported. This will be coming much sooner than Apple support, but it's still a little ways off right now.
-As more builds have fewer problems, I'll start making Android builds.
-
-### Will You Support 32-Bit Devices?
-Nope. The world has moved on, and frankly if you're using a 32-Bit device, it's time to upgrade.
+Android is not supported currently either, but that will be coming very soon.
 
 ### My Issue Was Closed, But The Bug Still Exists:
 Just comment on the original issue letting me know it's still a problem.
@@ -100,7 +96,6 @@ Just comment on the original issue letting me know it's still a problem.
 Depending on how similar they are you can do one of two things:
 * Near Identical Suggestion - Just Comment on the Closed Issue _(Don't worry, I'll see it)_
 * Somewhat Similar Suggestion - Create a new Issue
-
 
 ### When Is The Official Release?
 I have no idea, and I'm not even going to attempt a guess.
