@@ -41,8 +41,7 @@ By downloading a build, you will have access to the full game, with all it's fea
 [releases page](https://github.com/Drinkingpants74/Dungeon_Dwellers-Beta/releases).
 
 The list below are things that I'm already working on. Some of these items just need to get some finishing touches, others need to be rebuilt.
-* Boss Dungeons - They exist, but only 5/6 are built, 4/6 Bosses are made, and only 2/6 Bosses have images and animations.
-* Woodcutting - This actually works just fine, I just want to change it to match
+* Boss Dungeons - They exist, but they aren't finalized. All the dungeons are built, but some enemies need finalizing and animations.
 * Music/SFX - I'm still working on adding more Music and SFX. Some scenes have Music and some actions have SFX, but not all.
 * Skill Guide - It's a whole mess and needs to be completely rebuilt.
 
@@ -90,6 +89,9 @@ was developed on a Macbook Air.
 
 Currently, Android is not supported. This will be coming much sooner than Apple support, but it's still a little ways off right now.
 As more builds have fewer problems, I'll start making Android builds.
+
+### Will You Support 32-Bit Devices?
+Nope. The world has moved on, and frankly if you're using a 32-Bit device, it's time to upgrade.
 
 ### My Issue Was Closed, But The Bug Still Exists:
 Just comment on the original issue letting me know it's still a problem.
