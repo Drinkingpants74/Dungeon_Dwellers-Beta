@@ -41,6 +41,7 @@ By downloading a build, you will have access to the full game, with all it's fea
 [releases page](https://github.com/Drinkingpants74/Dungeon_Dwellers-Beta/releases).
 
 The list below are things that I'm already working on. Some of these items just need to get some finishing touches, others need to be rebuilt.
+* Tutorial - This is Priority #1 at the moment.
 * Boss Dungeons - They exist, but they aren't finalized. All the dungeons are built, but some enemies need finalizing and animations.
 * Music/SFX - I'm still working on adding more Music and SFX. Some scenes have Music and some actions have SFX, but not all.
 * Skill Guide - It's a whole mess and needs to be completely rebuilt.
