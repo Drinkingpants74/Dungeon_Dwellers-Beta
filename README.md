@@ -44,7 +44,7 @@ The list below are things that I'm already working on. Some of these items just 
 * Tutorial - This is Priority #1 at the moment.
 * Boss Dungeons - They exist, but they aren't finalized. All the dungeons are built, but some enemies need finalizing and animations.
 * Music/SFX - I'm still working on adding more Music and SFX. Some scenes have Music and some actions have SFX, but not all.
-* Skill Guide - It's a whole mess and needs to be completely rebuilt.
+* Parity - The Woodcutting mechanic will be changed to match Mining, and Smithing layout will be changed to match Crafting.
 
 
 ## How Can You Help?
@@ -100,3 +100,10 @@ Depending on how similar they are you can do one of two things:
 
 ### When Is The Official Release?
 I have no idea, and I'm not even going to attempt a guess.
+
+### Hey Dev! These Graphics Suck!
+Well that's simply because I have the artistic ability of a drunken squirrel high on crack.
+And since I'm the sole developer, and don't exactly have the means to higher an artist, here we are.
+
+Jokes aside, these images were a lot of effort on my part. There isn't a single image in the game that
+wasn't scrutinized down to the last pixel (literally). So they may be ugly, but they could have been worse.
