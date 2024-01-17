@@ -80,11 +80,11 @@ No. If you just want to play this game, that's completely acceptable.
 However, I would really appreciate any and all bug reports.
 
 ### When Will _<Insert Device/Arch/OS>_ Be Supported?
-I plan to support both 64-Bit and ARM devices running every major OS; Windows, MacOS, Linux, iOS, iPadOS, Android.
+I plan to support both 64-Bit and ARM devices across most Operating Systems; Windows, MacOS, Linux, iOS, iPadOS, Android.
 
 Currently, only 64-Bit Windows and Linux builds are available.
 
-Apple Products aren't currently supported. This is simply because I can't afford the $99 Developer Fee.
+Apple Products aren't currently supported. This is simply because I'm not paying the Developer Fee yet.
 Eventually that will change, but for now; Apple Devices are Not Supported. Which I find odd since I built
 the entire game on a MacBook Air.
 
